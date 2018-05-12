@@ -1,0 +1,35 @@
+_repo: The-End-of-Time_29410
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: West, Wallace
+    alias: West, Wallace George
+    birthdate: 1900
+    deathdate: 1980
+    gutenberg_agent_id: '33900'
+    url: http://www.gutenberg.org/2009/agents/33900
+    wikipedia: http://en.wikipedia.org/wiki/Wallace_West
+description: A chemist, a radio engineer, and a beautiful young woman appear to be
+  the only people in the world who have survived a strange attack or epidemic that
+  has stopped humanity in its tracks. It appears that human beings' sense of time
+  has been obliterated, causing everyone to lapse into a deep trance-like state. Can
+  the surviving trio figure out what's happening and reverse it before it's too late?
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2009-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The End of Time
+url: http://www.gutenberg.org/ebooks/29410
